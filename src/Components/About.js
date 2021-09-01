@@ -49,7 +49,7 @@ export default function About(props) {
                                     aria-expanded="false"
                                     aria-controls="collapseThree"
                                 >
-                                    <strong>Features</strong>
+                                    <strong>Features and Themes</strong>
                                 </button>
                             </h2>
                             <div
